@@ -1,3 +1,3 @@
 # Python101
 
-Assignment: Print "Hello World" to the console 
+Assignment: Print "Hallowed" to the console 
