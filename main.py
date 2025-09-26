@@ -1,1 +1,1 @@
-hallowed
+print("hello world")
